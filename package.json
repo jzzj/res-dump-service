@@ -1,0 +1,29 @@
+{
+  "name": "res-dump-service",
+  "version": "0.0.1",
+  "description": "Serving all resources that use res-dump-loader. See https://github.com/jzzj/res-dump-loader ",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jzzj/res-dump-service.git"
+  },
+  "keywords": [
+    "resource",
+    "dump"
+  ],
+  "author": "zangzhan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jzzj/res-dump-service/issues"
+  },
+  "homepage": "https://github.com/jzzj/res-dump-service#readme",
+  "devDependencies": {
+    "autoprefixer": "^6.5.3",
+    "glob": "^7.1.1",
+    "postcss-scss": "^0.4.0",
+    "res-dump-util": "0.0.1"
+  }
+}
