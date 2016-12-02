@@ -1,6 +1,6 @@
 {
   "name": "res-dump-service",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "Serving all resources that use res-dump-loader. See https://github.com/jzzj/res-dump-loader ",
   "main": "lib/index.js",
   "scripts": {
@@ -28,6 +28,6 @@
     "postcss": "^5.2.6",
     "postcss-scss": "^0.4.0",
     "precss": "^1.4.0",
-    "res-dump-util": "^0.0.2"
+    "res-dump-util": "^0.0.4"
   }
 }
