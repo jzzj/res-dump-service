@@ -1,6 +1,6 @@
 {
   "name": "res-dump-service",
-  "version": "0.0.9",
+  "version": "0.1.0",
   "description": "Serving all resources that use res-dump-loader. See https://github.com/jzzj/res-dump-loader ",
   "main": "lib/index.js",
   "scripts": {
@@ -22,12 +22,14 @@
   "homepage": "https://github.com/jzzj/res-dump-service#readme",
   "dependencies": {
     "autoprefixer": "^6.5.3",
+    "chokidar": "^1.6.1",
+    "circle-dependency-detector": "^1.0.2",
     "cssnano": "^3.8.1",
     "glob": "^7.1.1",
     "mime": "^1.3.4",
     "postcss": "^5.2.6",
     "postcss-scss": "^0.4.0",
     "precss": "^1.4.0",
-    "res-dump-util": "^0.0.4"
+    "res-dump-util": "^0.0.5"
   }
 }
