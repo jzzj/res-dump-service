@@ -1,6 +1,6 @@
 {
   "name": "res-dump-service",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Serving all resources that use res-dump-loader. See https://github.com/jzzj/res-dump-loader ",
   "main": "lib/index.js",
   "scripts": {
